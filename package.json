@@ -1,0 +1,21 @@
+{
+  "name": "javascript-tab",
+  "version": "1.0.0",
+  "description": "To run the build, type '$node build.js'",
+  "main": "jakefile.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rath-prak/Javascript-tab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rath-prak/Javascript-tab/issues"
+  },
+  "homepage": "https://github.com/rath-prak/Javascript-tab#readme"
+}
